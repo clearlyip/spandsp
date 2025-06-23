@@ -18,7 +18,7 @@
 
 # @start 1
 
-AC_PREREQ([2.59])
+AC_PREREQ([2.71])
 AC_INIT([spandsp], [3.0.0])
 
 CFLAGS="$CFLAGS $CONFIGURE_CFLAGS"
